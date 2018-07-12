@@ -1,4 +1,5 @@
 #coding:utf-8
 
-from IPy import IP
-IP('192.168.0.0/16').version()
+import IPy
+ip = IPy.IP('::1')
+print "IP type is IPv",ip.version()

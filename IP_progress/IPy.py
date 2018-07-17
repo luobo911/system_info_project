@@ -1,5 +1,5 @@
 #coding:utf-8
 
-import IPy
+form IP import IPy
 ip = IPy.IP('::1')
 print "IP type is IPv",ip.version()

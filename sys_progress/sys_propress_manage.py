@@ -9,7 +9,6 @@ print 'path',p.exe()
 print 'status',p.status()
 print 'create_time',p.create_time()
 print 'uid',p.uids()
-
 print 'gid',p.gids()
 #print 'cpu times',p.cpu_times()
 #print 'cpu affinity',p.cpu_affinity()

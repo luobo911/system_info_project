@@ -2,6 +2,7 @@
 
 from IPy import IP
 
+#
 ip1='192.168.1.0/24'
 
 #显示strNormal(0),IP网络地址
